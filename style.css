@@ -71,7 +71,7 @@ img {
   object-fit: cover;
 }
 
-/*---------------- bottom part of header (text + 3 images) -----------------------*/
+/*---------------- bottom part of header - 2 divs (text + 3 images) -----------------------*/
 
 .header-bottom {
   display: flex;
